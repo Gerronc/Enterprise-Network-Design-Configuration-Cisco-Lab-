@@ -46,3 +46,5 @@ Key excerpts from the Cisco switch
 <p align="center">
 <img src="https://i.imgur.com/QotGDuN.jpeg" height="85%" width="85%" alt="Server to client B ping"/>
 </p>
+Successful ping from Server (VLAN 30) to Client B (VLAN 20), confirming inter-VLAN routing is operational. The replies demonstrate that SVI routing and DHCP relay are correctly configured.
+
