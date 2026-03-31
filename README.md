@@ -17,6 +17,13 @@ Challenges & Solutions:
 
 Skills: Cisco Networking, Putty
 
+<h2>Network Diagram</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/H5Tpu0U.png" height="85%" width="85%" alt="Network Diagram"/>
+</p>
+
+
 <h2>Client IP Configuration</h2>
 
 Ipconfig output from Client A showing successful DHCP lease acquisition—IPv4 address 10.3.48.6, subnet mask 255.255.255.240, and default gateway 10.3.48.1. Confirms DHCP is functioning correctly within VLAN 10.
@@ -26,11 +33,6 @@ Ipconfig output from Client A showing successful DHCP lease acquisition—IPv4 a
 <img src="https://i.imgur.com/VOCHqD1.png" height="85%" width="85%" alt="Server to client B ping"/>
 </p>
 
-<h2>Network Diagram</h2>
-
-<p align="center">
-<img src="https://i.imgur.com/H5Tpu0U.png" height="85%" width="85%" alt="Network Diagram"/>
-</p>
 
 <h2>Running Configuration output</h2>
 Key excerpts from the Cisco switch 
